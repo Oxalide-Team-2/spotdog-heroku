@@ -1,0 +1,23 @@
+{
+  "name": "Spotdog",
+  "description": "Send EC2 Spot Instance Price History to Datadog",
+  "repository": "https://github.com/dtan4/spotdog-heroku",
+  "keywords": ["ruby", "AWS", "EC2", "spot instance", "relay"],
+  "env": {
+    "AWS_ACCESS_KEY_ID": {
+      "description": "AWS access key ID"
+    },
+    "AWS_SECRET_ACCESS_KEY": {
+      "description": "AWS secret access key"
+    },
+    "AWS_DEFAULT_REGION": {
+      "description": "AWS default region"
+    },
+    "DATADOG_API_KEY": {
+      "description": "API key of Datadog"
+    }
+  },
+  "addons": [
+    "scheduler"
+  ]
+}
