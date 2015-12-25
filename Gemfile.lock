@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    aws-sdk (2.1.26)
-      aws-sdk-resources (= 2.1.26)
-    aws-sdk-core (2.1.26)
+    aws-sdk (2.1.36)
+      aws-sdk-resources (= 2.1.36)
+    aws-sdk-core (2.1.36)
       jmespath (~> 1.0)
-    aws-sdk-resources (2.1.26)
-      aws-sdk-core (= 2.1.26)
-    dogapi (1.20.0)
+    aws-sdk-resources (2.1.36)
+      aws-sdk-core (= 2.1.36)
+    dogapi (1.21.0)
       multi_json
     jmespath (1.1.3)
     multi_json (1.11.2)
