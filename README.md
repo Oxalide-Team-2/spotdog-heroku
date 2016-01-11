@@ -4,7 +4,7 @@ A template to deploy [Spotdog](https://github.com/dtan4/spotdog) to Heroku
 
 ## Current versions
 
-- Ruby 2.2.3
+- Ruby 2.3.0
 - Spotdog 0.2.1
 
 ## Deploy to Heroku
