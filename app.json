@@ -1,7 +1,7 @@
 {
   "name": "Spotdog",
   "description": "Send EC2 Spot Instance Price History to Datadog",
-  "repository": "https://github.com/dtan4/spotdog-heroku",
+  "repository": "https://github.com/Oxalide-Team-2/spotdog-heroku",
   "keywords": ["ruby", "AWS", "EC2", "spot instance", "relay"],
   "env": {
     "AWS_ACCESS_KEY_ID": {

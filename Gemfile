@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem "spotdog", "0.2.1"
+gem "spotdog", :git => "git://github.com/Oxalide-Team-2/spotdog.git"
+
